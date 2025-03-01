@@ -301,7 +301,7 @@
     var icon = document.createElement('img');
   
   // icon.src = 'img/info.png';
-      icon.src = `img/${hotspot.title}v.png`;
+      icon.src = `prueba/img/${hotspot.title}v.png`;
     icon.classList.add('info-hotspot-icon');
     iconWrapper.appendChild(icon);
 
